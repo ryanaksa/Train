@@ -4,3 +4,5 @@ test
 * example
 *newbie
 *newbie2
+*newbie5
+newbie6
